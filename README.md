@@ -1,2 +1,6 @@
 # hello-world
-guideline project
+
+this is just an example of using the branching feature...
+
+...beware of the tacos...
+
